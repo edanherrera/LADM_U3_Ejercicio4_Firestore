@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074001955977",
+    "project_id": "ladmu3ejercicio4-95162",
+    "storage_bucket": "ladmu3ejercicio4-95162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074001955977:android:89a6d32dbaa216d1efca58",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio4_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074001955977-i6t6vihqtng2iv9jd2u8pmk484s2sd0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpcDBxAaBXeCUBV2L6Zr5cAVrTu7ItrKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074001955977-i6t6vihqtng2iv9jd2u8pmk484s2sd0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
